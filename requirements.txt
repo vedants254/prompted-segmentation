@@ -1,0 +1,9 @@
+torch
+torchvision
+transformers
+Pillow
+numpy
+matplotlib
+tqdm
+python-dotenv
+roboflow
